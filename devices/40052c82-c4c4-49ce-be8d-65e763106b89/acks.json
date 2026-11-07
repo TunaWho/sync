@@ -2,10 +2,10 @@
   "deviceId": "40052c82-c4c4-49ce-be8d-65e763106b89",
   "streams": {
     "40052c82-c4c4-49ce-be8d-65e763106b89": {
-      "lastSequence": 1,
-      "lastEventHash": "2a1c108e41578fb52239ae16991951699587d3d3ec0ada583c906955e77f46de"
+      "lastSequence": 2,
+      "lastEventHash": "72426de7c298a0067b8dbb2639f4e0ee6e0c4bf365efab7f83e83cff9b024d14"
     }
   },
   "absorbedCheckpoint": null,
-  "updatedAt": "2026-11-07T02:43:29.223Z"
+  "updatedAt": "2026-11-07T02:46:01.088Z"
 }
